@@ -1,5 +1,17 @@
-# network-packet-sniffer
-A basic Python packet sniffer using Scapy to capture and analyze real-time network traffic.
-It is a packet sniffer just like wireshark at basic level which will be able to capture and logs realtime network packets based on python.
+# Packet Sniffer
 
+A simple packet sniffer using Python and Scapy to capture and analyze HTTP POST requests, useful for testing form data handling in an insecure HTTP environment.
 
+## ⚠️ Disclaimer
+
+This tool is intended **only for educational purposes** on networks you **own or are authorized to test**. Unauthorized usage is illegal.
+
+## 📦 Requirements
+
+- Python 3.x
+- Scapy
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
