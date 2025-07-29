@@ -1,2 +1,1 @@
-#following are the requirements for the packet sniffer
 scapy
